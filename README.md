@@ -4,7 +4,7 @@
 ### The software used for development : Pycharm and Visual Studio code ( Desktop Development with C++)
 ### The software used for development of attendance report and visualization : MS Excel
 ### Language used : Python 
-### Pacakages used for development :
+### Packages used for development :
 ### Pillow	9.1.1	
 ### click	8.1.3	
 ### cmake	3.22.4	
